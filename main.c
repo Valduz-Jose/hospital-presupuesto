@@ -19,7 +19,7 @@ int main(int argc, char *argv[]) {
 		printf("\n\t\tLa cantidad de dinero para Ginecolog%ca es: %.2f",141,ginecologia);
 		printf("\n\t\tLa cantidad de dinero para Traumatolog%ca es: %.2f",141,traumatologia);
 		printf("\n\t\tLa cantidad de dinero para Pediatr%ca es: %.2f",141,pediatria);
-		printf("\n\n\t\Introduce (0) para volver a iniciar: ");
+		printf("\n\n\t\tIntroduce (0) para volver a iniciar: ");
 		scanf("%d",&continuar);
 		system("cls");
 	}
